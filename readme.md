@@ -19,6 +19,5 @@ $ npx riipandi
 ---
 
 ## License
-```
 
 MIT: [https://aris.mit-license.org/](https://aris.mit-license.org/)
